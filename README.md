@@ -44,15 +44,25 @@ Users can press the corresponding key to perform the desired action.
 
 #Example
 To display the list of books, press D.
+
 To issue a book, press I, enter the book ID, and provide your name.
+
 To return a book, press R and enter the book ID.
+
 To add a new book, press A and enter the book title.
+
 Code Structure
 LMS Class: Contains all the functionalities related to the library management system.
+
 __init__(): Initializes the library and loads books from a text file.
+
 display_books(): Displays the list of books.
+
 issue_books(): Handles the book issuing process.
+
 return_book(): Handles the book returning process.
+
 add_book(): Allows users to add new books to the library.
+
 Contributing
 Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
