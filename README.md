@@ -7,6 +7,7 @@ The Library Management System (LMS) is a Python-based application designed to ma
 #Features
 
 Display Books: Lists all available books with their status.
+
 Issue Books: Allows users to borrow books by entering the book ID.
 Return Books: Users can return books they have borrowed.
 Add Books: Users can add new books to the library collection.
